@@ -4,7 +4,6 @@ This is an official Military University of Technology application designed to di
 # <img src="https://icons.veryicon.com/png/o/education-technology/technology-big-data-visualization/network-detection.png" width="30" height="30"> Displaying Last Detections
 
 <img align="right" src="https://github.com/user-attachments/assets/82f9eab8-4cfe-4a93-8a24-7345f3b18b6e">
-</br>
 
 1. **ID** - Is an unique ID of the device in our DB
 2. **Delta Time** - first Delta Time is date of detection, all remaining are intervals(in minutes) between each other.
@@ -15,7 +14,6 @@ This is an official Military University of Technology application designed to di
 
 # <img src="https://cdn-icons-png.freepik.com/512/7555/7555805.png" width="30" height="30"> Map With Markers
 <img align="right" src="https://github.com/user-attachments/assets/ca0e6268-8bcc-4288-89ef-1f8d5263a3da">
-</br>
 
 1. **Save/Update** - Saves or updates current map configuration
 2. **Set Time Variables** - Choosing date range to display detections of particles occurred within this range. This form also allows to set step of moving range back and forth - used in "Up" and "Down" buttons
@@ -31,7 +29,6 @@ This is an official Military University of Technology application designed to di
 
 # <img src="https://cdn-icons-png.freepik.com/256/8479/8479052.png?semt=ais_hybrid" width="30" height="30"> Images Of Detections
 <img align="right" src="https://github.com/user-attachments/assets/05c3312a-3814-4717-bf7a-8724b05e3b25">
-</br>
 
 1. **ID** - Is an unique ID of the device in our DB
 2. **Occurance Time** - Date of Detection
@@ -43,8 +40,7 @@ This is an official Military University of Technology application designed to di
 <br clear="right"/>
 
 # <img src="https://png.pngtree.com/png-vector/20230822/ourmid/pngtree-app-drawer-icon-vector-template-design-download-png-image_6852897.png" width="30" height="30"> Navigation And Another Options
-<img align="right" src="https://github.com/user-attachments/assets/1c02d9b8-68d6-4f10-9b3e-202d873eef4a">
-</br>
+<img align="right" src="https://github.com/user-attachments/assets/1b76304a-3611-40fd-9f19-307510d176a0">
 
 1. **Last Detections**
 2. **Map Of Sensors**
