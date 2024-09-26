@@ -5,6 +5,7 @@ This is an official Military University of Technology application designed to di
 
 <img align="right" src="https://github.com/user-attachments/assets/82f9eab8-4cfe-4a93-8a24-7345f3b18b6e">
 </br>
+
 1. **ID** - Is an unique ID of the device in our DB
 2. **Delta Time** - first Delta Time is date of detection, all remaining are intervals(in minutes) between each other.
 3. **Direction(in degrees)** - at what angle the radiation particle came
