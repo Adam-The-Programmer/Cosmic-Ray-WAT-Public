@@ -20,5 +20,5 @@ This is an official Military University of Technology application designed to di
 3. **Direction(in degrees)** - at what angle the radiation particle came
 4. **Intensity** - recorded brightness on the matrix
 5. **Arrows** - Display previous/next detections. It blocks as you reach last or first detection correspondingly
-
+<br clear="left"/>
 
