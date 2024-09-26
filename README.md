@@ -30,12 +30,12 @@ This is an official Military University of Technology application designed to di
 # <img src="https://cdn-icons-png.freepik.com/256/8479/8479052.png?semt=ais_hybrid" width="30" height="30"> Images Of Detections
 <img align="right" src="https://github.com/user-attachments/assets/05c3312a-3814-4717-bf7a-8724b05e3b25">
 
-1. **ID** - Is an unique ID of the device in our DB
-2. **Occurance Time** - Date of Detection
-3. **Direction(in degrees)** - at what angle the radiation particle came
-4. **Intensity** - recorded brightness on the matrix
-5. **1 Arrows** - Choosing Device
-6. **2 Arrows** - Choosing Detection Of Device
+1. **ID** - This refers to a unique identifier assigned to each device within our database. It ensures precise tracking and identification, facilitating accurate data aggregation and analysis across different devices.
+2. **Occurance Time** - Indicates the exact date and time when the cosmic ray was detected. This timestamp is critical for logging events and enables researchers to correlate detections with other celestial phenomena.
+3. **Direction(in degrees)** - This measures the angle at which the cosmic radiation was detected by the sensor. Expressed in degrees, this parameter helps determine the trajectory of the incoming particles and can be crucial for spatial mapping of cosmic ray origins.
+4. **Intensity** - Reflects the luminosity or strength of the detection as recorded by the device's sensors. Higher intensity values might indicate closer or more significant cosmic ray events, making this a vital metric for studying cosmic radiation.
+5. **1 Arrows** - These controls allow users to cycle through the list of devices in the database. This functionality is essential for quickly navigating between different sensors or setups to compare data or analyze specific device outputs.
+6. **2 Arrows** - Facilitates navigation among various detections recorded by a selected device. This feature enhances user interaction, enabling detailed examination of the chronological sequence of events or comparisons of activity across different times.
 
 <br clear="right"/>
 
