@@ -35,6 +35,21 @@ This is an official Military University of Technology application designed to di
 3. **Direction(in degrees)** - at what angle the radiation particle came
 4. **Intensity** - recorded brightness on the matrix
 5. **1 Arrows** - Choosing Device
-5. **2 Arrows** - Choosing Detection Of Device
+6. **2 Arrows** - Choosing Detection Of Device
+
+<br clear="right"/>
+
+# <img src="https://png.pngtree.com/png-vector/20230822/ourmid/pngtree-app-drawer-icon-vector-template-design-download-png-image_6852897.png" width="30" height="30"> Navigation And Another Options
+<img align="right" src="https://github.com/user-attachments/assets/1c02d9b8-68d6-4f10-9b3e-202d873eef4a">
+
+1. **Last Detections**
+2. **Map Of Sensors**
+3. **Saved Maps**
+4. **Sensors' Images** - Images of Detections
+5. **Set Threshold Of Device** - Configures sensitivity of sensor
+6. **Reset Device** - Forces device to rerun
+7. **Turn Off/On Device**
+8. **Upload Software** - Selecting soft version and applying it to particular device
+9. **Update Location** - Get's GPS data and aplies it to device
 
 <br clear="right"/>
