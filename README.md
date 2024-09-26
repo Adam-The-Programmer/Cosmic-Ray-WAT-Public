@@ -9,7 +9,7 @@ This is an official Military University of Technology application designed to di
 3. **Direction(in degrees)** - at what angle the radiation particle came
 4. **Intensity** - recorded brightness on the matrix
 5. **Arrows** - Display previous/next detections. It blocks as you reach last or first detection correspondingly
-
+<br>
 # <img src="https://cdn-icons-png.freepik.com/512/7555/7555805.png" width="30" height="30"> Map With Markers
 <img align="left" src="https://github.com/user-attachments/assets/ca0e6268-8bcc-4288-89ef-1f8d5263a3da">
 
