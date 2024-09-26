@@ -27,3 +27,4 @@ This is an official Military University of Technology application designed to di
 
 <br clear="right"/>
 
+# <img src="https://cdn-icons-png.freepik.com/256/8479/8479052.png?semt=ais_hybrid" width="30" height="30"> Images Of Detections
