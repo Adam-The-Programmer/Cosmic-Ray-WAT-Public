@@ -14,6 +14,7 @@ This is an official Military University of Technology application designed to di
 
 # <img src="https://cdn-icons-png.freepik.com/512/7555/7555805.png" width="30" height="30"> Map With Markers
 <img align="right" src="https://github.com/user-attachments/assets/ca0e6268-8bcc-4288-89ef-1f8d5263a3da">
+&nbsp;
 
 1. **Save/Update** - Saves or updates current map configuration
 2. **Set Time Variables** - Choosing date range to display detections of particles occurred within this range. This form also allows to set step of moving range back and forth - used in "Up" and "Down" buttons
@@ -29,6 +30,7 @@ This is an official Military University of Technology application designed to di
 
 # <img src="https://cdn-icons-png.freepik.com/256/8479/8479052.png?semt=ais_hybrid" width="30" height="30"> Images Of Detections
 <img align="right" src="https://github.com/user-attachments/assets/05c3312a-3814-4717-bf7a-8724b05e3b25">
+&nbsp;
 
 1. **ID** - This refers to a unique identifier assigned to each device within our database. It ensures precise tracking and identification, facilitating accurate data aggregation and analysis across different devices.
 2. **Occurance Time** - Indicates the exact date and time when the cosmic ray was detected. This timestamp is critical for logging events and enables researchers to correlate detections with other celestial phenomena.
@@ -41,6 +43,7 @@ This is an official Military University of Technology application designed to di
 
 # <img src="https://png.pngtree.com/png-vector/20230822/ourmid/pngtree-app-drawer-icon-vector-template-design-download-png-image_6852897.png" width="30" height="30"> Navigation And Another Options
 <img align="right" src="https://github.com/user-attachments/assets/1b76304a-3611-40fd-9f19-307510d176a0">
+&nbsp;
 
 1. **Last Detections** - Displays the most recent cosmic ray detection events recorded by our sensors. This feature provides quick access to the latest data, helping users stay updated with real-time observations.
 2. **Map Of Sensors** - This interactive map showcases the geographical distribution of all the sensors involved in detecting cosmic rays. Users can visually locate and select different sensors to view specific data or compare readings across locations.
