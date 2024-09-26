@@ -5,11 +5,11 @@ This is an official Military University of Technology application designed to di
 
 <img align="right" src="https://github.com/user-attachments/assets/82f9eab8-4cfe-4a93-8a24-7345f3b18b6e">
 
-1. **ID** - Is an unique ID of the device in our DB
-2. **Delta Time** - first Delta Time is date of detection, all remaining are intervals(in minutes) between each other.
-3. **Direction(in degrees)** - at what angle the radiation particle came
-4. **Intensity** - recorded brightness on the matrix
-5. **Arrows** - Display previous/next detections. It blocks as you reach last or first detection correspondingly
+1. **ID** - This represents a unique identifier for each device within our database. It is essential for tracking specific data points and distinguishing between the different devices contributing to our measurements.
+2. **Delta Time** - The initial Delta Time is the timestamp of the first detection. Subsequent entries represent the time intervals, in minutes, between each consecutive detection. This data helps in analyzing the frequency and timing of cosmic ray events.
+3. **Direction(in degrees)** - This specifies the angle at which the cosmic ray particles have been detected relative to the sensor. The direction is measured in degrees, aiding in understanding the spatial distribution and origin of the rays.
+4. **Intensity** - This refers to the measured brightness or strength of the detected signal on the sensor matrix. Intensity levels are crucial for assessing the energy and potential impact of each cosmic ray particle.
+5. **Arrows** - These navigational elements enable users to scroll through previous and next detections. The functionality automatically disables at the boundary points, preventing navigation beyond the available dataset. This feature is instrumental in efficiently reviewing sequential cosmic ray events.
 <br clear="right"/>
 
 # <img src="https://cdn-icons-png.freepik.com/512/7555/7555805.png" width="30" height="30"> Map With Markers
