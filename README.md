@@ -42,14 +42,14 @@ This is an official Military University of Technology application designed to di
 # <img src="https://png.pngtree.com/png-vector/20230822/ourmid/pngtree-app-drawer-icon-vector-template-design-download-png-image_6852897.png" width="30" height="30"> Navigation And Another Options
 <img align="right" src="https://github.com/user-attachments/assets/1b76304a-3611-40fd-9f19-307510d176a0">
 
-1. **Last Detections**
-2. **Map Of Sensors**
-3. **Saved Maps**
-4. **Sensors' Images** - Images of Detections
-5. **Set Threshold Of Device** - Configures sensitivity of sensor
-6. **Reset Device** - Forces device to rerun
-7. **Turn Off/On Device**
-8. **Upload Software** - Selecting soft version and applying it to particular device
-9. **Update Location** - Get's GPS data and aplies it to device
+1. **Last Detections** - Displays the most recent cosmic ray detection events recorded by our sensors. This feature provides quick access to the latest data, helping users stay updated with real-time observations.
+2. **Map Of Sensors** - This interactive map showcases the geographical distribution of all the sensors involved in detecting cosmic rays. Users can visually locate and select different sensors to view specific data or compare readings across locations.
+3. **Saved Maps** - Allows users to access previously saved layouts of sensor maps. This feature is useful for revisiting specific studies or comparisons without the need to recreate the map setup from scratch.
+4. **Sensors' Images** - Presents photographic or graphical images of detections made by the sensors. These images are valuable for visual analysis and verification of the cosmic ray events.
+5. **Set Threshold Of Device** - Enables users to adjust the sensitivity of a sensor. Setting the threshold is crucial for optimizing detection capabilities and can be tailored to focus on events of particular interest or intensity.
+6. **Reset Device** - This function allows users to restart a device remotely. Resetting is useful for troubleshooting or clearing errors, ensuring that sensors operate without disruptions.
+7. **Turn Off/On Device** - Provides the ability to remotely deactivate or activate a device. This control is essential for managing the operational status of sensors, allowing for maintenance or conservation of power when necessary.
+8. **Upload Software** - Facilitates the selection of software versions and their application to a specific device. This feature ensures that all devices are up-to-date with the latest enhancements and security patches.
+9. **Update Location** - Retrieves and updates the GPS coordinates of a device. Accurate location data is critical for aligning detection data with geographic information, aiding in precise mapping and analysis.
 
 <br clear="right"/>
