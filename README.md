@@ -20,5 +20,9 @@ This is an official Military University of Technology application designed to di
 3. **Up** - adds step value to "From" and "To" boundaries in date range
 4. **Down** - subtracts step value from "From" and "To" boundaries in date range
 5. **Device Indicator** - marker is representation of device on the map. It's rotation shows from which direction particle came from.
+
+
+<img src="https://github.com/user-attachments/assets/45a8aa73-f5d1-469e-88ec-0e62662cadc2">
+
 <br clear="right"/>
 
