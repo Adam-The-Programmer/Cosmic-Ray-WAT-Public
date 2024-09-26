@@ -29,6 +29,7 @@ This is an official Military University of Technology application designed to di
 
 # <img src="https://cdn-icons-png.freepik.com/256/8479/8479052.png?semt=ais_hybrid" width="30" height="30"> Images Of Detections
 <img align="right" src="https://github.com/user-attachments/assets/05c3312a-3814-4717-bf7a-8724b05e3b25">
+
 1. **ID** - Is an unique ID of the device in our DB
 2. **Occurance Time** - Date of Detection
 3. **Direction(in degrees)** - at what angle the radiation particle came
