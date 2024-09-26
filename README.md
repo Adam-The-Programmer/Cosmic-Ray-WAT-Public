@@ -3,7 +3,7 @@ This is an official Military University of Technology application designed to di
 
 # <img src="https://icons.veryicon.com/png/o/education-technology/technology-big-data-visualization/network-detection.png" width="30" height="30"> Displaying Last Detections
 
-<img align="right" src="https://github.com/user-attachments/assets/82f9eab8-4cfe-4a93-8a24-7345f3b18b6e" style="padding: 8;">
+<img align="right" src="https://github.com/user-attachments/assets/82f9eab8-4cfe-4a93-8a24-7345f3b18b6e" style="padding:8;">
 
 1. **ID** - This represents a unique identifier for each device within our database. It is essential for tracking specific data points and distinguishing between the different devices contributing to our measurements.
 2. **Delta Time** - The initial Delta Time is the timestamp of the first detection. Subsequent entries represent the time intervals, in minutes, between each consecutive detection. This data helps in analyzing the frequency and timing of cosmic ray events.
