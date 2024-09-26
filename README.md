@@ -1,4 +1,4 @@
-# Cosmic Ray WAT Idea
+# Abstract
 This is an official Military University of Technology application designed to display information about recently detected cosmic rays, as well as to configure sensors by updating their software, turning them on or off, and adjusting their settings.
 
 # <img src="https://icons.veryicon.com/png/o/education-technology/technology-big-data-visualization/network-detection.png" width="30" height="30"> Displaying Last Detections
